@@ -241,4 +241,4 @@ This repository serves as the official landing page for VirtualBox. The software
 **Get the most recent version of VirtualBox today!**
 
 ---
-**Last updated:** 2026-10-20 03:44:54 UTC
+**Last updated:** 2026-10-20 09:12:14 UTC
